@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+openai
+faiss-cpu
+pydantic
+requests
+numpy
+standard-imghdr
+python-dotenv
